@@ -1,0 +1,10 @@
+zad 4.1 18
+zad 4.2
+2
+145
+1
+40585
+zad 4.3
+pierwsza liczba ci¹gu 31968
+d³ugoœæ ci¹gu 150
+nwd ci¹gu 74

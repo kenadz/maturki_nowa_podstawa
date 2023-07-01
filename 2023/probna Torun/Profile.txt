@@ -1,0 +1,11 @@
+numer; symbol; nazwa
+1; a; matematyczno-fizyczny
+2; b; matematyczno-fizyczno-informatyczny
+3; c; biologiczno-chemiczny
+4; d; biologiczno-chemiczno-matematyczny
+5; e; humanistyczny z rozszerzonym angielskim
+6; f; humanistyczny z rozszerzonym hiszpañskim
+7; g; prawniczy
+8; i; prawniczy z rozszerzona matematyka
+9; j; medialny
+10; k; medialny z rozszerzonym angielskim i niemieckim

@@ -1,0 +1,21 @@
+aaa
+aaab
+ab
+abbb
+abbc
+abbcc
+
+(10, aaabc)
+
+Jedna para jest mniejsza od drugie wtedy, gdy:
+- liczba jest mniejsza
+- słowo jest mniejsze (porządek leksykograficzny słów)
+
+
+(5, aaaaa), (4, aaab), (4, aabb), (3, abc), (3, abb)
+
+porownanie((3, abc), (3, abb)) = -1
+porownanie((3, abb), (5, aaaaa)) = 1
+porownanie((3, abb), (3, abb)) = 0
+
+(3, aab),(3, abb)
